@@ -1,9 +1,15 @@
+@font-face {
+	font-family: pixelfont;
+	src: url("/resources/fonts/FreePixel.ttf");
+
 body {
-	background-color: #40bc28;
+	background: url("/resources/static/background.jpg");
+	background-repeat: repeat;
 }
 
 .headertext {
 	color: white;
 	text-align:center;
 	text-shadow: 2px 2px black;
+	font-family: pixelfont;
 }
