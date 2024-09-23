@@ -1,0 +1,9 @@
+body {
+	background-color: #40bc28;
+}
+
+.headertext {
+	color: white;
+	text-align:center;
+	text-shadow: 2px 2px black;
+}
